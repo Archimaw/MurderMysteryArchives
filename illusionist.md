@@ -21,6 +21,16 @@ Illusionist were people, who were driven insane by the despairs and want to be s
 - They're now able to set traps for survivors and manipulate the environment with (rules implied)
 ##### Leviathan (Final Affinity)
 - They gain all previous abilities and capable of section 3 (killing anyone one person in a game without punishment) 
+##### Section 1
+You're not allow to speed up the game, if there's no players involved hardly; you'll need to acquire that from your despair.
+##### Section 2
+All Illusionist must help the despair keep balance in the game; which means you're not allow to give specific players-
+Information basis on the despairs (Decisions on the game component)
+##### Section 3
+You're able to kill only within a periodic timeframe, meaning; only the starting clause is counted out and ending clause-
+Anything that's in between the game's middle zone or (third-chapter) you can manipulate.
+
+> You can apply other rules to this, if you desire.
 
 
 
