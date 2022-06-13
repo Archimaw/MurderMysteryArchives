@@ -7,7 +7,9 @@ They were created by the despairs to cause more conflict and pain and revive the
 - They can stop illusioners from doing devious things?
 - They can give items to "players" on a round basis, depending on (situational pools)
 #### Resiliences
-- They can only be applied, if their assistant is a doctor/supportive role?
+- They can only be applied, if their assistant is a doctor & supportive role?
+- They can't kill anyone at all, they're only supportive
+- Illusioners can give them trouble with the game internally
 #### Affinities
 #### Seeking (First Affinity)
 - Only can stop illusioners from specific tasks
