@@ -1,4 +1,4 @@
-```md
+
 # Illusionist (Code Name: The Killing Spectator)
 > These people are most likely just friends to the despairs to make the game more interesting; this role is only for fast pace matching
 
@@ -25,4 +25,3 @@ Supportive / Offensive
 
 ### Storyline
 Illusionist were people, who were driven insane by the despairs and want to be super vengeful on their primal desires to destroy and cause conflict and pain within basis of their own needs.
-```
